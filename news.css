@@ -58,7 +58,6 @@
     }
 
     .bottom-right {
-      position: relative;
-      padding-top: 10em;
+      position: absolute;
    }
      
